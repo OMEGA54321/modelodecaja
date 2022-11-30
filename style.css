@@ -1,0 +1,44 @@
+ul  {
+    list-style-type: nome;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    color: #000;
+    display: block;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 14px;
+}
+.grid {
+    height: 23px;
+    position: relative;
+    bottom: 4px;
+}
+
+.signbutton {
+    background-color: #4885ed;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    position: relative;
+    bottom: 7px;
+    font-weight: bold;
+}
+
+.logo {
+    margin-top: 200px;
+    margin-bottom: 20px;
+}
+
+.bar {
+    margin: 0 auto;
+    width: 575px;
+    border-radius: 30px;
+    border: 1px solid #dcdcdc;
+}
